@@ -1,0 +1,5 @@
+bear
+caar
+word
+less
+away
